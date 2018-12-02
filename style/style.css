@@ -16,8 +16,15 @@ h6 {
 p {
   font-family: 'Open Sans', sans-serif;
   margin: 15px 0px;
-  line-height: 25px;
+  line-height: 25px
 }
+
+a {
+  font-family:cursive;
+  font-size: 10px;
+}
+
+
 
 /*========================================
 *
@@ -27,7 +34,7 @@ p {
 *=========================================*/
 
 header {
-  background: #333;
+  background: #ce1eca;
   position: fixed;
   left: 0;
   right: 0;
