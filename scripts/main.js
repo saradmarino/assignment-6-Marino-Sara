@@ -6,3 +6,9 @@ var tour = {
   Seattle: ["September 1 2018"],
   Edmonton: ["September 4 2018"],
 };
+
+var i = 1;
+while (i < 6) {
+    console.log("Times running through loop " + i)
+    i++;
+};
